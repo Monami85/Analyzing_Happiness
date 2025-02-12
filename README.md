@@ -6,8 +6,7 @@ This project explores the World Happiness Report 2024, analyzing global happines
 The aim is to determine whether the current indicators accurately reflect happiness and to propose potential enhancements or alternative measures for a more comprehensive assessment. <br />
 <br />
 Data Source<br />
-•	Dataset: World Happiness Report 2024<br />
-•	Source: Official World Happiness Report<br />
+•	Dataset : World Happiness Report 2024<br />
 <br />
 
 Objective<br />
