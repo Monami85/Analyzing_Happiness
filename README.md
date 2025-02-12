@@ -47,7 +47,9 @@ Methodology<br />
 •	Additionally, countries such as India and Brazil - despite their lower happiness index scores - often display a happier population when considering factors like strong family bonds, community support, cultural resilience and a more holistic approach to life satisfaction, which are not fully captured by traditional economic metrics.
 <br />
 
-Tableau Public : https://public.tableau.com/app/profile/monami.haldar5190/vizzes<br />
+markdown 
+   [Tableau Public]([https://www.example.com](https://public.tableau.com/app/profile/monami.haldar5190/vizzes)
 
+   
 <br /><br />
 Note : I refined the final layout, design and language of the project with assistance from ChatGPT.
