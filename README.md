@@ -45,9 +45,9 @@ Methodology<br />
 •	Some high-income countries rank lower than expected, indicating that non-economic factors like mental health and work-life balance may be underrepresented.<br />
 •	While the current parameters offer a solid framework, incorporating cultural and psychological well-being measures could significantly refine the accuracy of the rankings.<br />
 •	Additionally, countries such as India and Brazil - despite their lower happiness index scores - often display a happier population when considering factors like strong family bonds, community support, cultural resilience and a more holistic approach to life satisfaction, which are not fully captured by traditional economic metrics.
-<br /><br />
+<br />
 
 Tableau Public : https://public.tableau.com/app/profile/monami.haldar5190/vizzes<br />
-Use this link to see the Tableau visualization :<br />
+
 <br /><br />
 Note : I refined the final layout, design and language of the project with assistance from ChatGPT.
